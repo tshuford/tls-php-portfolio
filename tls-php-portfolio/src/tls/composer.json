@@ -1,0 +1,11 @@
+{
+    "autoload": {
+        "psr-4": {
+            "tls\\elevator\\" : "C:/Users/tshuf/Development/Workspaces/MyEclipse 2017/tls-php-portfolio/src/tls/elevator/",
+            "tls\\system\\" : "C:/Users/tshuf/Development/Workspaces/MyEclipse 2017/tls-php-portfolio/src/tls/system/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.1"
+    }
+}
